@@ -1,0 +1,13 @@
+bihop 7 7
+bishop 8 6
+rook 4 5
+kng 1 5
+king 5 5
+rook 4 1
+bishop 3 1
+queen 7 1
+queen 4 4
+knight 3 6
+king 1 1
+queen 2 2
+rook 3 3
