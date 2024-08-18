@@ -1,0 +1,8 @@
+Ctrl+Alt+Del=reset
+Ctrl+C=copy
+Ctrl+Ins=copy
+Ctrl+C=paste
+Shift+Ins=paste
+Ctrl+X=cut
+Shift+Del=cut
+F1=help

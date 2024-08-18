@@ -1,0 +1,37 @@
+first map
+
+cut	shift+del, ctrl+x, 
+help	f1, 
+paste	shift+ins, 
+copy	ctrl+ins, ctrl+c, 
+reset	ctrl+alt+del, 
+
+after transformations
+
+replace	ctrl+g, 
+find	ctrl+n, ctrl+f, 
+cut	shift+del, ctrl+x, 
+help	f1, 
+copy	ctrl+ins, 
+reset	ctrl+alt+del, 
+
+second map
+
+beat	ctrl+n, 
+cut	shift+del, ctrl+x, 
+help	f1, 
+paste	shift+ins, 
+copy	ctrl+ins, ctrl+c, 
+reset	ctrl+alt+del, 
+
+after merge
+conflicts: 1
+ctrl+n
+
+replace	ctrl+g, 
+find	ctrl+n, ctrl+f, 
+cut	shift+del, ctrl+x, 
+paste	shift+ins, 
+help	f1, 
+copy	ctrl+c, ctrl+ins, 
+reset	ctrl+alt+del, 
